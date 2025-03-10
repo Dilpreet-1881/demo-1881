@@ -1,2 +1,2 @@
 # demo-1881
-This is a demo 
+This is a demo.
